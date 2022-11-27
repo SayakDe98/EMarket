@@ -1,0 +1,4 @@
+{
+    "db" : "mongodb://localhost/emarket",
+    "jwtPrivateKey" : "1" 
+}
